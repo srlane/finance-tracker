@@ -52,3 +52,5 @@ gem 'devise'
 gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+
+gem 'iex-ruby-client'
