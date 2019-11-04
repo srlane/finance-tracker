@@ -1,0 +1,6 @@
+.bundle/config
+db/development.sqlite3
+tmp/*
+*~
+*#
+db/test.sqlite3*
